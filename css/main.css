@@ -1,0 +1,178 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: rr;
+    src: url("../fnts/miracle_history/Miracle\ History.ttf");
+}
+.fn{
+    font-family: rr;
+}
+#f1{
+    color: aliceblue;
+    background-image: url("../images/Layer\ 2\ 1.png");
+    position: relative;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: auto;
+    width: 100%;
+}
+#c1{
+    padding: 33px;
+}
+#clm ul li a{
+     text-decoration: none;
+    margin: 45px;
+    color: aliceblue;
+}
+#clm ul li{
+    list-style: none;
+    text-align: right;
+}
+#b{
+    background-image: url("../images/Rounded Rectangle 7.png");
+    position: relative;
+    bottom: 163px;
+    display: inline-block;
+    padding: 44px;
+    color: #0dafb4;
+}
+#Good{
+    margin-left: 38px;
+    line-height: 3px;
+}
+#h{
+    line-height: 3px;
+    margin-left: 92px;   
+}
+#f{
+    font-size: 49px;
+    margin-right: 33px;
+}
+#a1{
+    background-image: url("../images/current.png");
+   padding: 24px 12px;
+
+}
+#f2{
+    background-image: url("../images/Layer\ 3.png");
+    color: antiquewhite;
+}
+#a2{
+    background-image: url("../images/Block\ bg.png");
+    position: relative;
+   padding: 24px 12px;
+
+}
+p{
+    text-align: center;
+}
+#i{
+    background-image: url("../images/Block\ bg\ l.png");
+}
+#f3{
+    background-image:url("../images/about_bg\ 3.png") ;
+    color: aliceblue;
+}
+#a3{
+    background-image: url("../images/Rounded\ Rectangle\ 3.png");
+   padding: 24px 12px;
+
+}
+#sec{
+    padding: 34px;
+}
+.d{
+    padding-left:26px;
+    text-align: center;
+    background-image: url("../images/Rounded\ Rectangle\ 3.png");
+    width: 100%;
+    padding: 22px;
+}
+#r{
+    color: rgb(219, 43, 43);
+}
+#cir{
+    border:5px solid rgb(219, 43, 43);
+    border-radius:50%;
+}
+#z{
+    color: rgb(33, 170, 212);
+}
+#ci{
+    border:5px solid grey;
+    border-radius:50%;
+}
+#f4{
+    background-image: url("../images/about_bg4.png");
+    position: relative;
+    width: 100%;
+    height: auto;
+    padding: 23px;
+    color: antiquewhite;
+}
+#a4{
+    background-image: url("../images/Rounded\ Rectangle\ 14.png");
+   padding: 24px 12px;
+
+}
+#a5{
+   background-image: url("../images/Rounded\ Rectangle\ 4\ 3.png");
+   padding: 7px;
+}
+#fi{
+    width: 100%;
+    height: auto;
+    margin: 0%;
+    padding: 0%;
+    margin-left: 12px;
+}
+#f5{
+    background-image: url("../images/about_bg\ 5.png");
+    position: relative;
+    width: 100%;
+    height: auto;
+    color: antiquewhite;
+}
+#a5{
+    background-image: url("../images/Rounded\ Rectangle\ 1\ 5.png");
+   padding: 24px 12px;
+
+}
+#a7{
+    color: antiquewhite;
+}
+#f6{
+    background-image: url("../images/Rectangle\ 3\ 5.png");
+    height: 0%;
+    position: relative;
+    width: 100%;
+    bottom: -42px;
+}
+#ai{
+    color: aliceblue;
+    position: relative;
+    top: -80px;
+}
+#p{
+    margin-left: 33px;
+}
+#a6{
+    background-image: url("../images/Rounded\ Rectangle\ 4\ 3.png");
+    position: relative;
+    width: 100%;
+    padding:19px;
+}
+#a9{
+    background-image: url("../images/m\ team\ bg.png");
+    position: relative;
+    width: 100%;
+    height: 0px;
+    background-size: cover;
+    padding: 60px 0;
+    padding-top: 55px;
+    text-align: center;
+}
